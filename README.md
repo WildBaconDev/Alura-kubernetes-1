@@ -4,4 +4,3 @@ kubectl run nginx-pod --image=nginx
 kubectl apply -f .\primeiro-pod.yml
 kubectl delete pod nginx-pod
 kubectl delete -f .\primeiro-pod.yml
-
